@@ -1,4 +1,4 @@
-/*
+
 
 let DB;
 const mascotaInput = document.querySelector('#mascota');
@@ -394,4 +394,3 @@ function crearDB(){
     }
 }
 
-*/
